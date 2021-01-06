@@ -1,27 +1,40 @@
-# Angular6Elasticsearch
+# Angular 11 ElasticSearch Example
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
+Link: https://loizenai.com/angular-11-elasticsearch-example/
 
-## Development server
+![Angular 11 ElasticSearch Example](https://loizenai.com/wp-content/uploads/2021/01/Angular-11-ElasticSearch.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+– Tutorial: “Angular 11 ElasticSearch Example – How to add Elasticsearch.js”
+In this tutorial, I guide how to add ElasticSearch to an Angular 11 Project.
 
-## Code scaffolding
+## Check Result
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run Angular 11 App, go to http://localhost:4200/:
 
-## Build
+![Angular 11 Elasticsearch Example Quick Start Result](https://loizenai.com/wp-content/uploads/2021/01/Angular-11-Elasticsearch-Example-Quick-Start-Result-1.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Open Browser Console, we can see:
 
-## Running unit tests
+![Angular 11 Elasticsearch Example Quick Start-Result Console](https://loizenai.com/wp-content/uploads/2021/01/Angular-11-Elasticsearch-Example-Quick-Start-Result-Console.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Read More
 
-## Running end-to-end tests
+- [Node.js Upload Image to PostgreSQL Example](https://loizenai.com/node-js-upload-image-to-postgresql-example/)
+- [Image to Base 64 Java 8](https://loizenai.com/image-to-base64-java-8/)
+- [Angular 11 Node.js MySQL CRUD example](https://loizenai.com/angular-11-node-js-mysql-crud-example/)
+- [Angular Node.js MySQL CRUD Example](https://loizenai.com/angular-node-js-mysql-crud-example/)
+- [Angular 11 Node.js PostgreSQL CRUD Example](https://loizenai.com/angular-11-node-js-postgresql-crud-example/)
+- [SpringBoot MongoDB Angular CRUD Example Github](https://loizenai.com/spring-boot-mongodb-angular-crud-example-github/)
+- [Nodejs Token Based Authentication JWt Web Tokens Authentication MySQL Example](https://loizenai.com/nodejs-token-based-authentication-jwt-json-web-tokens-authentication-mysql-example/)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Tutorial Link
 
-## Further help
+https://loizenai.com/angular-11-elasticsearch-example/
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Youtube Video
+
+- https://www.youtube.com/watch?v=dTR-41_jMvc&t=86s
+- https://www.youtube.com/watch?v=y-i52oP-l_E&t=72s
+- https://www.youtube.com/watch?v=XIzmmwWmCqg&t=41s
+- https://www.youtube.com/watch?v=XIzmmwWmCqg&t=41s
+- https://www.youtube.com/watch?v=XIzmmwWmCqg&t=41s
